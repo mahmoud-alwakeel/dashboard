@@ -1,4 +1,4 @@
-import 'package:dashboard/widgets/all_expenses/all_expenses_widget.dart';
+import 'package:dashboard/widgets/all_expenses/all_expenses.dart';
 import 'package:dashboard/widgets/drawer/custom_drawer.dart';
 import 'package:flutter/material.dart';
 
